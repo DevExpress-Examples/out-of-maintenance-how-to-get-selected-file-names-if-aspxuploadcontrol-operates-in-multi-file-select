@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to get selected file names if ASPxUploadControl operates in multi-file selection mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3947/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to get a list of names of selected files if ASPxUploadControl operates in multi-file selection mode</p><br />
